@@ -1,5 +1,4 @@
 import styled from 'styled-components';
-import { useState } from 'react';
 
 const Nav = styled.nav`
   background: rgba(255, 255, 255, 0.9);

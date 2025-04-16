@@ -4,7 +4,8 @@ A modern React dashboard application with a clean and intuitive interface. Built
 
 ## Features
 
-- 📊 Interactive Dashboard with real-time statistics
+- ![Screenshot (2)](https://github.com/user-attachments/assets/7f2a6e9b-4bea-4da1-a416-c2d572bc712e)
+📊 Interactive Dashboard with real-time statistics
 - 🎨 Modern and responsive design
 - 📱 Mobile-friendly interface
 - 🔄 Dynamic routing
